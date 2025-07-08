@@ -1,5 +1,7 @@
-import React, { useState, useEffect } from 'react';
 import './App.css'; // if you're using styles
+import './index.css';
+import React, { useState, useEffect } from 'react';
+
 // You can include Tailwind setup or other CSS imports here if needed
 
 // Then paste your entire SkillSwapPlatform component below this line:
